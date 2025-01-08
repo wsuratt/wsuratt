@@ -1,4 +1,6 @@
-## Hi there 👋
+Website I made (Ruby on Rails): (https://www.afillio.com/)
+
+Demo of webapp I made: (https://m.youtube.com/watch?v=sF8nyFp4kdQ)
 
 <!--
 **wsuratt/wsuratt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
